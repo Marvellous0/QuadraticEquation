@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Algebra\bin\Debug\net5.0\Algebra.exe
+C:\Users\Favour .O\Desktop\Algebra\bin\Debug\net5.0\Algebra.deps.json
+C:\Users\Favour .O\Desktop\Algebra\bin\Debug\net5.0\Algebra.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Algebra\bin\Debug\net5.0\Algebra.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Algebra\bin\Debug\net5.0\Algebra.dll
+C:\Users\Favour .O\Desktop\Algebra\bin\Debug\net5.0\ref\Algebra.dll
+C:\Users\Favour .O\Desktop\Algebra\bin\Debug\net5.0\Algebra.pdb
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\Algebra.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\Algebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\Algebra.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\Algebra.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\Algebra.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\Algebra.dll
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\ref\Algebra.dll
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\Algebra.pdb
+C:\Users\Favour .O\Desktop\Algebra\obj\Debug\net5.0\Algebra.genruntimeconfig.cache
